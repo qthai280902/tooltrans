@@ -16,6 +16,7 @@ pip install edge-tts
 Sau đó kiểm tra:
 edge-tts --version
 
+
 2. ffmpeg
 Tải từ: https://ffmpeg.org/download.html (Windows build)
 Giải nén vào C:\ffmpeg\
